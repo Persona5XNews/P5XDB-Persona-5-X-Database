@@ -1,3 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: [Welcome to P5X Database!]
+description: [This website provides you with the latest information on the mobile game: Persona 5 the Phantom X. You can also follow my Twitter account @Persona5X_News for updates on news and information and site announcement updates.]
